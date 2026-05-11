@@ -6,7 +6,7 @@ Manual testing was performed on a Hospital Management System developed using PHP
 ## Main Project Repository
 Source code of the Hospital Management System project:
 
-🔗 https://github.com/souravhayan/Hospital_Management_System
+🔗 https://github.com/souravhayan/Hospital-Management-System
 
 ## Live Project
 🔗 https://hms.page.gd/
